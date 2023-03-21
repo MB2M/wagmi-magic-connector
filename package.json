@@ -52,8 +52,7 @@
     "ethers": "^5.7.1"
   },
   "files": [
-    "build/main",
-    "build/module",
+    "build/*",
     "!**/*.spec.*",
     "!**/*.json",
     "CHANGELOG.md",
