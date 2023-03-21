@@ -1,6 +1,6 @@
 {
   "name": "@everipedia/wagmi-magic-connector",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "description": "wagmi connector to connect with Magic SDK",
   "main": "build/module/index.js",
   "type": "module",
@@ -30,7 +30,7 @@
     "@magic-ext/connect": "^6.7.0",
     "@magic-ext/oauth": "^7.6.0",
     "@magic-sdk/provider": "^13.6.0",
-    "@wagmi/core": "^0.8.14",
+    "@wagmi/core": "^0.10.3",
     "magic-sdk": "^13.6.0",
     "tsc-esm-fix": "^2.20.10"
   },
